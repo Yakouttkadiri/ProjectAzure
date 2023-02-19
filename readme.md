@@ -6,7 +6,7 @@ Goal of the project : Build a full pipeline processing a dataset composed of sto
 
 Architecture :  MicrosoftTeams-image_(1).png
 
-![Architecture](https://github.com/Yakouttkadiri/ProjectAzure/MicrosoftTeams-image_(1).png)
+![Architecture](https://github.com/Yakouttkadiri/ProjectAzure/blob/main/MicrosoftTeams-image_(1).png)
 
 # Steps:
 
