@@ -4,9 +4,9 @@ Yakout TOUHAMI KADIRI - Mustapha BENHALIMA
 
 Goal of the project : Build a full pipeline processing a dataset composed of stocks data.
 
-Architecture :
+Architecture :  MicrosoftTeams-image_(1).png
 
-![MicrosoftTeams-image (1).png](Projet%20data%20Lakes%20and%20Data%20Integration%20c7a45c4fa9994755ae247ba445d25920/MicrosoftTeams-image_(1).png)
+![Architecture](https://github.com/Yakouttkadiri/ProjectAzure/MicrosoftTeams-image_(1).png)
 
 # Steps:
 
